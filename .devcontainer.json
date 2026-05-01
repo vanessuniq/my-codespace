@@ -2,7 +2,7 @@
 	"image": "mcr.microsoft.com/devcontainers/universal:latest",
 	"postAttachCommand": "npm run dev",
 	"features": {
-		"ghcr.io/devcontainers/features/node:1": {
+		"ghcr.io/devcontainers/features/node:2": {
 			"version": "16"
 			},
 		"ghcr.io/devcontainers/features/azure-cli:1": {
